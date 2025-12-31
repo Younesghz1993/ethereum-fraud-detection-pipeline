@@ -31,6 +31,7 @@ git clone [https://github.com/Younesghz1993/ethereum-fraud-detection-pipeline.gi
 cd ethereum-fraud-detection-pipeline
 cp .env.example .env
 # Edit .env and add your Alchemy API Key
+```
 ### 3. Start Services
 docker-compose up -d
 
